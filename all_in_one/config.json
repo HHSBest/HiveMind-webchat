@@ -13,7 +13,7 @@
     ]
   },
   "server": {
-    "disabled": true,
+    "disabled": false,
     "metrics": false,
     "sync_skill_settings": false
   },
@@ -24,5 +24,5 @@
     "padaos_only": false
   },
   "opt_in": false,
-  "debug": true
+  "debug": false
 }
